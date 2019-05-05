@@ -124,7 +124,7 @@ Library
         -- GHC 7.10.2 ships with base 4.8.1.0
         Build-Depends:          base >= 4.8.1.0  && < 5
                                , Strafunski-StrategyLib
-                               , cabal-helper >= 0.8.0.3
+                               , cabal-helper == 1.0.*
                                , containers
                                , directory
                                , filepath
