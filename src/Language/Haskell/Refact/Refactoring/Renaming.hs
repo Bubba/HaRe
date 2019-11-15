@@ -18,7 +18,7 @@ import Language.Haskell.GHC.ExactPrint
 import Language.Haskell.GHC.ExactPrint.Types
 import Language.Haskell.GHC.ExactPrint.Utils
 import Language.Haskell.Refact.API
-import qualified Haskell.Ide.Engine.PluginApi as HIE (BiosOptions(..))
+import qualified Haskell.Ide.Engine.PluginApi as HIE (BiosOptions)
 import qualified Data.Map as Map
 
 {-# ANN module "HLint: ignore Redunant do" #-}
